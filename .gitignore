@@ -1,0 +1,5 @@
+# ignore other gits
+/other/
+
+# Ignore big data
+/data/bigdata/
